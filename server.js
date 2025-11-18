@@ -13,13 +13,13 @@ app.get("/", (req, res) => {
     },
     {
       type: "video",
-      url: "https://files.catbox.moe/w2piej.mp4",
-      durationInSeconds: 10
+      url: "https://files.catbox.moe/72vr6e.mp4",
+      durationInSeconds: 19
     },
 
     {
         type: "video",
-        url:"https://files.catbox.moe/72vr6e.mp4",
+        url:"https://files.catbox.moe/w2piej.mp4",
         durationInSeconds: 10,
     }
   ]);
