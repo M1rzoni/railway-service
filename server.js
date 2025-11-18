@@ -21,6 +21,12 @@ app.get("/", (req, res) => {
         type: "video",
         url:"https://files.catbox.moe/w2piej.mp4",
         durationInSeconds: 10,
+    },
+
+    {
+        type: "video",
+        url: "https://files.catbox.moe/qirpfr.mp4",
+        durationInSeconds: 10
     }
   ]);
 });
