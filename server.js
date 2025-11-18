@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
   res.json([
     {
       type: "image",
-      url: "https://example.com/slika1.jpg",
+      url: "https://vimeo.com/1138000679?share=copy&fl=sv&fe=ci",
       durationInSeconds: 3
     },
     {
