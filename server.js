@@ -8,12 +8,12 @@ app.get("/", (req, res) => {
   res.json([
     {
       type: "video",
-      url: "https://example.https://www.shutterstock.com/shutterstock/videos/3818181037/preview/stock-footage-close-up-trader-or-investor-using-smartphone-for-real-time-stock-market-monitoring-with.webm/",
+      url: "https://www.shutterstock.com/shutterstock/videos/3823932579/preview/stock-footage-back-view-of-woman-entering-turquoise-water-at-maya-bay-koh-phi-phi-a-concept-of-luxury-vacation.mp4",
       durationInSeconds: 10
     },
     {
       type: "video",
-      url: "https://vimeo.com/1138000679?share=copy&fl=sv&fe=ci",
+      url: "https://www.shutterstock.com/shutterstock/videos/3771633729/preview/stock-footage-business-people-tablet-or-manager-shaking-hands-for-corporate-funding-agreement-or-b-b-deal.webm",
       durationInSeconds: 3
     },
     {
@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
     },
     {
       type: "image",
-      url: "https://example.com/slika2.jpg",
+      url: "https://www.shutterstock.com/image-photo/vertical-image-collage-shocked-businessman-600w-2448440215.jpg",
       durationInSeconds: 5
     }
   ]);
