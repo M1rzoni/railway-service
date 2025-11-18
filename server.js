@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
     },
     {
       type: "video",
-      url: "https://www.shutterstock.com/shutterstock/videos/3771633729/preview/stock-footage-business-people-tablet-or-manager-shaking-hands-for-corporate-funding-agreement-or-b-b-deal.webm",
+      url: "https://www.shutterstock.com/shutterstock/videos/3818181037/preview/stock-footage-close-up-trader-or-investor-using-smartphone-for-real-time-stock-market-monitoring-with.mp4",
       durationInSeconds: 3
     },
     {
