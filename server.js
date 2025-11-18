@@ -7,13 +7,13 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.json([
     {
-      type: "image",
+      type: "video",
       url: "https://vimeo.com/1138000679?share=copy&fl=sv&fe=ci",
       durationInSeconds: 3
     },
     {
       type: "video",
-      url: "https://example.com/video1.mp4"
+      url: "https://example.https://www.shutterstock.com/shutterstock/videos/3818181037/preview/stock-footage-close-up-trader-or-investor-using-smartphone-for-real-time-stock-market-monitoring-with.webm/video1.mp4"
     },
     {
       type: "image",
