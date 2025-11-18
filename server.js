@@ -13,8 +13,8 @@ app.get("/", (req, res) => {
     },
     {
       type: "video",
-      url: "https://www.shutterstock.com/shutterstock/videos/3818181037/preview/stock-footage-close-up-trader-or-investor-using-smartphone-for-real-time-stock-market-monitoring-with.mp4",
-      durationInSeconds: 3
+      url: "https://files.catbox.moe/w2piej.mp4",
+      durationInSeconds: 8
     },
     {
       type: "video",
