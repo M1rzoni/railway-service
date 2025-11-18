@@ -8,24 +8,14 @@ app.get("/", (req, res) => {
   res.json([
     {
       type: "video",
-      url: "https://www.shutterstock.com/shutterstock/videos/3823932579/preview/stock-footage-back-view-of-woman-entering-turquoise-water-at-maya-bay-koh-phi-phi-a-concept-of-luxury-vacation.mp4",
+      url: "https://files.catbox.moe/8x612x.mp4",
       durationInSeconds: 10
     },
     {
       type: "video",
       url: "https://files.catbox.moe/w2piej.mp4",
-      durationInSeconds: 8
-    },
-    {
-      type: "video",
-      url: "https://example.https://www.shutterstock.com/shutterstock/videos/3818181037/preview/stock-footage-close-up-trader-or-investor-using-smartphone-for-real-time-stock-market-monitoring-with.webm/",
       durationInSeconds: 10
     },
-    {
-      type: "image",
-      url: "https://www.shutterstock.com/image-photo/vertical-image-collage-shocked-businessman-600w-2448440215.jpg",
-      durationInSeconds: 5
-    }
   ]);
 });
 
